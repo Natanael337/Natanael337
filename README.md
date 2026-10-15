@@ -19,13 +19,6 @@ Me chamo Natanael, tenho 19 anos e sou natural de Sergipe. Concluí o ensino mé
             src="https://custom-icon-badges.demolab.com/github/followers/Natanael337?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Natanael337">
-        <img 
-            alt="Visualizações do Perfil" 
-            title="Visualizações do Perfil" 
-            src="https://komarev.com/ghpvc/?username=Natanael337&color=e3b341&style=for-the-badge&label=VISITAS"
-        />
-    </a>
 </p>
 
 <p align="left">
