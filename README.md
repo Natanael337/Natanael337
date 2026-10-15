@@ -30,13 +30,6 @@ Me chamo Natanael, tenho 19 anos e sou natural de Sergipe. Concluí o ensino mé
 
 <p align="left">
     <img 
-        alt="C"
-        title="C"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor"
-    />
-    <img 
         alt="Python" 
         title="Python"
         width="30px" 
